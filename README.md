@@ -26,6 +26,7 @@ The goal is to identify key characters and understand the structure of the narra
 # visualization
 ![Network Graph](visuals/network_graph.png)
 ![Degree Distribution](notebook/Degree_plot.jpg)
+![Betweeness_ Distributuion](Hobbit network analysis/notebook/Betweeness_plot.png)
 
 # Technology Used
 - Python
