@@ -23,6 +23,10 @@ The goal is to identify key characters and understand the structure of the narra
 - The network has low density (0.195) → sparse interactions
 - The network is fully connected → strong narrative cohesion
 
+# visualization
+![Network Graph](outputs/network_graph.png)
+![Degree Distribution](outputs/degree_distribution.png)
+
 # Technology Used
 - Python
 - NetworkX
