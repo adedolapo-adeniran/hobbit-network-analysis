@@ -24,7 +24,7 @@ The goal is to identify key characters and understand the structure of the narra
 - The network is fully connected → strong narrative cohesion
 
 # visualization
-![Network Graph](visuals/network_graph.png)
+![Network Graph](notebook/network_graph.png)
 ![Degree Distribution](visuals/degree_distribution.png)
 
 # Technology Used
