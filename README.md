@@ -25,7 +25,7 @@ The goal is to identify key characters and understand the structure of the narra
 
 # visualization
 ![Network Graph](visuals/network_graph.png)
-![Degree Distribution](notebook/Degree_plot.png)
+![Degree Distribution](notebook/Degree_plot.jpg)
 
 # Technology Used
 - Python
